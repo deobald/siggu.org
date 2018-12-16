@@ -5,8 +5,12 @@
 layout: home
 ---
 
-# Siggu: Your Horseradish
-
 ## What is siggu.org?
 
-We are trying to blah blah blah
+To Be Determined.
+
+## Old Articles
+
+- 2016 January - [Vipassana for Hackers (video)](https://www.youtube.com/watch?v=1BWYqHbF00c)
+- 2015 January - [Drugs, Meditation, Warnings](http://blog.deobald.ca/2015/01/drugs-meditation-warnings.html)
+- 2013 February - [An Atheist's Glimpse of God](http://blog.deobald.ca/2013/02/an-atheists-glimpse-of-god.html)
