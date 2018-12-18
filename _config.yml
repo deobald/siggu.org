@@ -2,3 +2,13 @@ theme: minima # jekyll-theme-minimal
 
 logo: "/images/cute-horseradish-color.png"
 description: "Siggu: The Horseradish"
+
+title: "Siggu"
+email: steven@deobald.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  An inspection of Vipassana meditation from the perspective of
+  raw beginners.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://siggu.org"
+twitter_username: siggudotorg
+github_username: deobald
