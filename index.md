@@ -4,6 +4,7 @@ title: "Siggu."
 
 ## Articles
 
+- 2018 December - [The Toxic Notification Bubble](https://medium.com/siggu/the-toxic-notification-bubble-2dbac032e34a)
 - 2018 December - [What is siggu.org?](https://medium.com/siggu/what-is-siggu-org-a8e8823daee5)
 
 ## Papers
