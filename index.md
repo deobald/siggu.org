@@ -4,10 +4,10 @@ title: "Siggu."
 
 ## Articles
 
-- 2018 December - [Steve Yegge, you are half right (Part One)](https://medium.com/siggu/steve-yegge-you-are-half-right-part-one-5560054e2922) - Steven
-- 2018 December - [Why I meditate, karate class, and baking infinite cookies](https://medium.com/siggu/week-1-the-week-before-christmas-or-why-i-meditate-karate-class-and-baking-infinite-cookies-48da5ca38b54) - Preethi
-- 2018 December - [The Toxic Notification Bubble](https://medium.com/siggu/the-toxic-notification-bubble-2dbac032e34a) - Steven
-- 2018 December - [What is siggu.org?](https://medium.com/siggu/what-is-siggu-org-a8e8823daee5) - Steven
+- 2018 December 24 - [Steve Yegge, you are half right (Part One)](https://medium.com/siggu/steve-yegge-you-are-half-right-part-one-5560054e2922) - Steven
+- 2018 December 24 - [Why I meditate, karate class, and baking infinite cookies](https://medium.com/siggu/week-1-the-week-before-christmas-or-why-i-meditate-karate-class-and-baking-infinite-cookies-48da5ca38b54) - Preethi
+- 2018 December 23 - [The Toxic Notification Bubble](https://medium.com/siggu/the-toxic-notification-bubble-2dbac032e34a) - Steven
+- 2018 December 21 - [What is siggu.org?](https://medium.com/siggu/what-is-siggu-org-a8e8823daee5) - Steven
 
 ## Papers
 
