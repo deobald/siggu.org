@@ -4,6 +4,7 @@ title: "Siggu."
 
 ## Articles
 
+- 2018 December 31 - [EFF Software Ethics or Steve Yegge, you are half right (Part Two)](https://medium.com/siggu/eff-software-fc19e1abca46)
 - 2018 December 24 - [Steve Yegge, you are half right (Part One)](https://medium.com/siggu/steve-yegge-you-are-half-right-part-one-5560054e2922)
 - 2018 December 23 - [The Toxic Notification Bubble](https://medium.com/siggu/the-toxic-notification-bubble-2dbac032e34a)
 - 2018 December 21 - [What is siggu.org?](https://medium.com/siggu/what-is-siggu-org-a8e8823daee5)
