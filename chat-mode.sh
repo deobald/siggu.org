@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+# an option: https://mathiasbynens.be/notes/shell-script-mac-apps
+
 if [ $# -eq 0 ]
   then
     echo "Please specify 'on' or 'off'."
