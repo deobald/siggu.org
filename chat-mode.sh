@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 
-# an option: https://mathiasbynens.be/notes/shell-script-mac-apps
+# handy: ln -s ~/work/siggu.org/chat-mode.sh /usr/local/bin/chat-mode
+# consider this option: https://mathiasbynens.be/notes/shell-script-mac-apps
 
 if [ $# -eq 0 ]
   then
