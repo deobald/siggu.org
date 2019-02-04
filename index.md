@@ -4,6 +4,7 @@ title: "Siggu."
 
 ## Articles
 
+- 2019 February 01 - [India has a Three-Body Problem](https://medium.com/siggu/india-has-a-three-body-problem-b61090fe4cc6)
 - 2019 January 16 - [How to disconnect](https://medium.com/siggu/how-to-disconnect-1040de82072a)
 - 2019 January 11 - [Does smoking marijuana harm your meditation practice?](https://medium.com/siggu/does-smoking-marijuana-harm-your-meditation-practice-a683ea752220)
 - 2019 January 01 - [EFF Software Ethics or Steve Yegge, you are half right (Part Two)](https://medium.com/siggu/eff-software-fc19e1abca46)
@@ -17,6 +18,7 @@ title: "Siggu."
 
 ## Preethi's Week Notes
 
+- 2019 February 01 - [Week 6: Traveling to Jaipur](https://medium.com/siggu/week-6-traveling-to-jaipur-e5d4ed82333e)
 - 2019 January 22 - [Week 4 & 5: An Ode to Chennai](https://medium.com/siggu/week-4-5-an-ode-to-chennai-b3d720a323a9)
 - 2019 January 11 - [Week 3: Traveling into the New Year](https://medium.com/siggu/week-3-da6670c2f5a0)
 - 2018 December 31 - [Week 2: The week that was Christmas — ’Tis the season to talk about Premenstrual Syndrome, board games, and the prairies](https://medium.com/siggu/week-2-the-week-that-was-christmas-tis-the-season-to-talk-about-premenstrual-syndrome-board-fcf56b0a44c1)
