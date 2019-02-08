@@ -1,0 +1,49 @@
+startups
+slack ban
+chat apps: slack, telegram, whatsapp, signal, line, keybase, twitter
+rideshare apps: uber, lyft, grab, go-jek
+other apps: maps, recipes, strava (shared health data), goodreads, spotify, airbnb => difference between apps and services?
+google doesn't remind parents to take out recycling / garbage
+huawei CFO issue?
+"The team examines the algorithm used by the study and discovers the link to the employment profiling." - https://www.technologyreview.com/s/612588/its-time-for-a-bill-of-data-rights/
+business models: (1) data (2) product (3) service
+
+
+
+design
+policy
+
+
+
+---
+
+
+
+, who are concerned with the immediate issues of data and privacy legislation.
+https://twitter.com/pamartineza/status/1079315539661594632
+https://twitter.com/ethicraul/status/1079322877684600832
+
+ethics? governance? policy?
+The Crypto
+I recently attended The International Conference on Co-operatives in the Changing World of Work, in Kerala. The conference was cleanly divided into two types of co-operatives: India's most prevalent co-operative societies covering agriculture and dairy - and a fantastic, largely hypothetical, conceptualization of what co-operatives might look like in the future. This concept hinged on a central but largely abstract notion of distribution. Apparently in 2018 "distribution" is shorthand for "blockchain."
+Chris Dixon made this same mistake shortly after Yegge wrote his article. Yegge even comes to the precipice of this space but never quite crosses into it:
+We need to find a way [to take Grab every day] in the Grab Seattle eng office, somehow.
+There are only two ways: (1) Move to Indonesia. (2) Run Grab services in Seattle. That's it. There is no middle ground here.
+The place where we do find middle ground is between the civilian-burning anarchy of winner-take-all software services dressed up as nation-building and the asinine belief that - don't worry any minute now guys - we will magically acquire Starfleet local devices and network infrastructure which, between them, will make the blockchain a near-term reality.
+That middle ground is called Federation.
+This isn't a complicated concept. You use federated protocols all the time, at all levels of the internet's stack: TCP/IP, HTTP, IMAP. These concepts sound academic when written as acronyms but federated services are unbelievably accessible when described as products: The Web. Email.
+Federation lives on a spectrum. On the far left we have the single-point-of-failure (SPOF) services run with all the maturity of weekend hackathon projects: AWS, GMail, Facebook, Slack, Twitter. Yes, each of these companies puts up large data centres and fat pipes and resilient software architectures but at the end of the day if Amazon.com, Inc disappears all your "infrastructure" on AWS goes with it. On a long enough timeline, everything is ephemeral: people, cities, nations. But few things seem so gossamer in this day and age as the corporation and entrusting a single corporation to persist longer than you, your family, or your country just seems childish. Pluralize that and everything feels a lot safer: many corporations, running federated services over open protocols, can remain competitive and provide the service you seek without owning the product.
+Federation isn't binary. In between the SPOF megaliths and the trustless P2P food delivery services built on next year's iteration of the blockchain, we have many options. Open APIs are not federation but they are certainly a step toward federation. No one would accuse the mobile data providers of the world of being big proponents of hippie ideals like federation and co-operation but the world over we all see constructive use of the wireless spectrum as infrastructure, and that's rarely the territory of true monopoly.
+As my colleague Shafeeq described it:
+Governments regulate the wireless spectrum precisely because it is a national resource. The services built on top of regulated resources become inherently federated and it seems like the time is ripe to regulate one of the nation's most precious resources: the privacy of its citizens.
+As he points out, GDPR is already a huge step in this direction. But every meaningful service necessitates privacy. Location-based services, perhaps more than any other.
+This cute/horrible diagram emphasizes a few intersecting points I've been trying to make for years now. The diagram might be wrong… that's not important. What is important to understand is that Free and Open Source software is the only software you can trust to remain federated, long-term. Email is a federated protocol but there is a very good chance your email address sits on a Gmail or Microsoft Outlook server. Neither of those is open source and you really have no control over it, ultimately. Similarly, laws like GDPR help ensure your privacy and safety but you really want code which backs that up. WhatsApp is supposedly encrypted. Who knows? Until you can verify the encryption by reading the source code, you have zero guarantees that Facebook hasn't sold Vladimir Putin another backdoor to your cat photos and prostate exam results so he can elect the next U.S. president on your behalf. Your privacy, your free will, your country - you shouldn't need to witness your toddler watching a video of Mickey Mouse masturbating to clue in to the importance respecting your users.
+
+
+---
+
+If I had written this article in 1999 when winner-take-all business models were all the rage in the software industry, I'd sound like a nut. Actually, I'd probably just have an entry in /r/StallmanWasRight now. But I wouldn't be singing in tune with the common understanding. These days, it's a weekly (if not daily) occurrence to have even the mainstream media shout at us that we should be re-reading Stallman and Doctorow. As the engineers of this disaster, let's try a little harder when we pick our next jobs.
+If Steve Yegge honestly believes that the big players have stopped innovating and the
+little guy is blazing a new, righteous trail for the world's users he might want to
+use the aforementioned function of prediction to anticipate just what sort of
+outcomes he's a party to.
