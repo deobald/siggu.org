@@ -1,48 +1,44 @@
-\documentclass[12pt,stdletter,orderfromtodate,sigleft]{newlfm}
-\usepackage{blindtext, xfrac}
+\documentclass{letter}
+\usepackage{hyperref}
 
-\newlfmP{dateskipbefore=50pt}
-\newlfmP{sigsize=50pt}
-\newlfmP{sigskipbefore=50pt}
-
-\newlfmP{Headlinewd=0pt,Footlinewd=0pt}
-
-\namefrom{Sherlock Holmes}
-\addrfrom{%
-    221B Baker Street\\
-    London, UK
-}
-
-\addrto{%
-    Basil of Baker Street\\
-    221$\sfrac{1}{2}$ Baker Street\\
-    London, UK
-}
-
-\dateset{January 6, 1914}
-
-\greetto{To Whom It May Concern,}
-
-\closeline{Sincerely,}
+\signature{Steven Deobald}
+\address{F3, Block 3 Shivani Apartments \\ Thiruvanmyuir, Chennai
+\\ Tamil Nadu, India - 600041}
 
 \begin{document}
-\begin{newlfm}
-\blindtext
+\begin{letter}{ynharari \\ P.O. Box 3308 \\ Karmei Yosef 9979700
+\\ Israel}
 
-Dear Dr. Harari,
+\opening{Dear Dr. Harari:}
 
 I am interested in the meditation research you mention in Chapter 21 of
 your latest book. On page 322 (of the printing I own) you mention:
 
+\begin{quote}
 ``Some universities and laboratories have indeed begun using meditation as a research
 tool rather than as a mere object for brain studies. Yet this process is still in its
 infancy, partly because it requires an extraordinary investment on the part of the
 researchers.''
+\end{quote}
 
 Unfortunately, this is one of the few references you make without including an
-endnote. Or perhaps fortunately --- as it gives me an excuse to write you this
+endnote. Or fortunately, perhaps, as it gives me an excuse to write you this
 letter. I would love to know which universities and laboratories you refer to in this
-passage precisely because I have a desire to make such an investment.
+passage precisely because my partner and I have a desire to make such an investment.
 
-\end{newlfm}
+I am a computer scientist by trade and
+an eye injury four years ago has restricted my computer use. My partner Preethi is
+a geneticist who has tired of private industry and would like to return to
+academia. We both left our jobs in July of 2018 to meditate more seriously and
+consider the next step in our respective careers. (Re-)Entering academia seemed like
+a natural fit for both of us and meditation topped our list of research topics but we
+were entirely uncertain how to enter this field, and under what discipline.
+
+Next month (March), Preethi will sit her fourth 10-Day Vipassana course and I will
+sit my first 20-Day. You may write to our Chennai address at the top of this letter
+or email us at steven@deobald.ca and preethi@deobald.ca.
+
+\closing{Mangal bhav,}
+
+\end{letter}
 \end{document}
