@@ -4,6 +4,7 @@ title: "Siggu."
 
 ## Articles
 
+- 2019 March 01 - [Silent Spaces](https://medium.com/siggu/silent-spaces-160d3a44fa3d)
 - 2019 February 05 - [Universal Spaces](https://medium.com/siggu/universal-spaces-d0e0110a0ccc)
 - 2019 February 01 - [India has a Three-Body Problem](https://medium.com/siggu/india-has-a-three-body-problem-b61090fe4cc6)
 - 2019 January 16 - [How to disconnect](https://medium.com/siggu/how-to-disconnect-1040de82072a)
@@ -19,6 +20,7 @@ title: "Siggu."
 
 ## Preethi's Week Notes
 
+- 2019 May 06 - [Month 2 & 3: A Recap](https://medium.com/siggu/month-2-3-a-recap-7513dc46e95e)
 - 2019 February 01 - [Week 6: Traveling to Jaipur](https://medium.com/siggu/week-6-traveling-to-jaipur-e5d4ed82333e)
 - 2019 January 22 - [Week 4 & 5: An Ode to Chennai](https://medium.com/siggu/week-4-5-an-ode-to-chennai-b3d720a323a9)
 - 2019 January 11 - [Week 3: Traveling into the New Year](https://medium.com/siggu/week-3-da6670c2f5a0)
