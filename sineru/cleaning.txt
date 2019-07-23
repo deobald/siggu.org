@@ -1,4 +1,6 @@
 
+# This document has since expanded and moved to https://github.com/deobald/dhamma-sineru
+
 # Dhamma Sineru Cleaning Manual
 
 
