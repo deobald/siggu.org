@@ -1,0 +1,64 @@
+
+# Born in a Log Cabin He Built Himself
+
+## The paradox of off-grid life: there's nowhere off the grid in 2019.
+
+- what is the "grid"?
+  - electricity
+  - water
+  - sewage & grey water
+  - "off-grid's dirty little secret is propane"
+  - energy (gas, propane, wood)
+  - telecommunications
+  - data (electronic fingerprint, even without internet)
+  - electronics (laptop to write)? plastic? metal? glass? prescription eyewear?
+    medicine? lumber? textiles?
+  - The Knowledge: rebuilding would start with harvesting the old refined materials
+- woman in russia: https://en.wikipedia.org/wiki/Agafia_Lykova
+  - grid vs. off-grid is really a spectrum
+  - prepping vs. off-grid vs. homesteading
+- what to do with garbage / recycling
+  - Rob's "steel in trucks to carry one plastic bottle" argument, why this quickly
+    breaks down at scale, and why it's dangerous to allow this line of thinking into
+    the global consciousness (see: Nirbheek argument)
+  - diesel fuel = 90% of waste management costs in Bangalore
+  - Dhamma Sineru's incinerator
+  - India's Three Body Problem
+- What is "sustainable"?
+  - Sustainable = Longevity? (Deepa)
+  - composting toilets are not sustainable and neither are mud huts (Thiruvanamalai)
+    - everyone is trying to reach Level 4 (see: Factfulness)
+  - sustainability demands scale
+  - monastic life is the ultimate unsustainable "sustainable living"
+    - Kannadiga boy who plans to be a monk with no external support
+- Why is this interesting at all?
+  - Ehipassiko: Come and See Yourself: How hard is it?
+    - bedding: sleeping bags, beds, blankets - sleep (Why We Sleep?)
+    - shelter: tents, cabin (grid lumber)
+    - drinking water: carry, well + Berkey filter, better filters
+    - food: grocery store, garden
+      - cooking: wood, outdoor petroleum, indoor petroleum (Level 2 is not better)
+      - eating: floor, chair, table... the value of level surfaces and indoor
+                surfaces
+      - refrigeration: none, cooler, cold storage, koolatron, proper fridge
+    - toilets: dig a hole (pit toilet), composting toilet, flush toilet
+    - bathing: wet wipes, rain + sponge baths, well + HWOD showers, brushing teeth
+    - grey water: rocks + dirt
+    - sewage: pit toilet, humanure, local treatment
+    - transportation: walking, bicycles, trucks, boats
+    - lighting: headlamps, candles, LEDs
+    - washing clothes: don't, by-hand, washing machine (see: Factfulness)
+    - reading: don't, kindle, bookshelf - requires lighting
+    - warmth: clothing, wood stove, insulation, propane, gas, electric heat
+    - electricity: none, generator, solar/wind
+    - time: coming here during "vacation" (and leaving it unattended otherwise)
+    - crime: fighting squatters, thieves, and vandals (Matthew's cabin)
+  - The Knowledge: water levels rising for hundreds of years even if carbon output
+    ended today = refugees in every country, the need for mobile cities, the need for
+    smaller living
+  - argument with Nirbheek, network effects, aggregate effects
+- Factfulness and World Bank's Levels
+  - Everyone is trying to reach Level 4
+  - Even in a Level 4 country, Level 4 is surprisingly difficult to achieve without
+    the power grid, clean water, sewage, roads... but it's very difficult to remain
+    at Level 1 within a Level 4 country.
