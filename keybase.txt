@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/deobald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://siggu.org
+  * I am deobald (https://keybase.io/deobald) on keybase.
+  * I have a public key ASBsTiUOU--H2PpXyqbbEUyYXTXHQb5LUA1mWU-QOhTu4Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206c4e250e53ef87d8fa57caa6db114c985d35c741be4b500d66594f903a14eee00a",
+      "host": "keybase.io",
+      "kid": "01206c4e250e53ef87d8fa57caa6db114c985d35c741be4b500d66594f903a14eee00a",
+      "uid": "4534a4be5aabe782e23462ec85163819",
+      "username": "deobald"
+    },
+    "merkle_root": {
+      "ctime": 1567648787,
+      "hash": "4bab6ab31e745cc8c7fc2b9682ccc916dcf830caaca9fef96ddd30e88164bc02e53c203546d391ce251ddd5d709f25395be4fdcd196bb13c0a08fe73fd40ed42",
+      "hash_meta": "dc41bc8922e3c59dbc54e2ffd5eef1f8df8517ccc327f97ab34e00abe94d6eb0",
+      "seqno": 6174066
+    },
+    "service": {
+      "entropy": "DaRUCc75RfxUwAcycBpCl/Gd",
+      "hostname": "siggu.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1567648817,
+  "expire_in": 504576000,
+  "prev": "2a09722dd98dd361741e392c6efadbf3bde31cb76f09f375a73e5bd00b8d8cfb",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbE4lDlPvh9j6V8qm2xFMmF01x0G+S1ANZllPkDoU7uAKp3BheWxvYWTESpcCOcQgKglyLdmN02F0Hjksbvrb873jHLdvCfN1pz5b0AuNjPvEIIE3UbRAQ3+tRs8B0DRleQE358x/02LCDXwPw+7dJxfbAgHCo3NpZ8RAmrtBfSd5RhsjN8H6v66T42auJfGMddtRCRKujqAy+ugTMCSmuJZSAoUZe5vdt2dfF1Livytoyc7WrsDPwsy/BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIK6Ms0tBxPS3bj0a4dJ4yUuA6iMePTH6+yb3Nh34rPqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deobald
+
+==================================================================
