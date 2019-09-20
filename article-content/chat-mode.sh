@@ -16,6 +16,7 @@ if [ "$1" = "on" ]
     open /Applications/Signal.app
     open /Applications/Messages.app
     open /Applications/Telegram.app
+    open /Applications/Keybase.app
     exit
 fi
 
@@ -26,6 +27,7 @@ then
     osascript -e 'quit app "Signal"'
     osascript -e 'quit app "Messages"'
     osascript -e 'quit app "Telegram"'
+    osascript -e 'quit app "Keybase"'
     exit
 fi
 
