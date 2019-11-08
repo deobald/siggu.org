@@ -53,3 +53,5 @@ title: "Siggu."
 - Vipassana for Hackers, The Earth Pagoda Manual
 - [Die Standing Up](https://github.com/deobald/die-standing-up) - A book about health.
 - Margaret Atwood's Masterclass - Steven.
+    - Reading: _On Writer's And Writing_
+    - To read: _The Blind Assassin_
