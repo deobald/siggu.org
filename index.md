@@ -39,3 +39,17 @@ title: "Siggu."
 - 2016 January - [Vipassana for Hackers (video)](https://www.youtube.com/watch?v=1BWYqHbF00c)
 - 2015 January - [Drugs, Meditation, Warnings](http://blog.deobald.ca/2015/01/drugs-meditation-warnings.html)
 - 2013 February - [An Atheist's Glimpse of God](http://blog.deobald.ca/2013/02/an-atheists-glimpse-of-god.html)
+
+## Projects In Flight
+
+- [Coursera JHU Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) - That's all Preethi.
+- Permanent Residence in Canada - Preethi.
+- Half Marathon Number Two.
+
+- Vipassana for Hackers, [Paper Three](https://github.com/deobald/vipassana-for-hackers/blob/master/paper-three/paper-three.tex)
+- Vipassana for Hackers, [Paper Four](https://github.com/deobald/vipassana-for-hackers/blob/master/paper-four/paper-four.tex)
+- [Suññagara.org](https://www.sunnagara.org) - Find a Silent Space to meditate, near you.
+- Vipassana for Hackers, The Proposal
+- Vipassana for Hackers, The Earth Pagoda Manual
+- [Die Standing Up](https://github.com/deobald/die-standing-up) - A book about health.
+- Margaret Atwood's Masterclass - Steven.
