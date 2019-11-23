@@ -4,6 +4,7 @@ title: "Siggu."
 
 ## Articles
 
+- 2019 November 20 - [RFC: Hacker Villages](https://medium.com/siggu/rfc-hacker-villages-45d49369bf8c)
 - 2019 October 28 - [Compassion for Donald](https://medium.com/siggu/compassion-for-donald-75a88f582a5d)
 - 2019 October 21 - [I started meditating... now what?](https://medium.com/siggu/i-started-meditating-now-what-dc9f05d44cf3)
 - 2019 March 01 - [Silent Spaces](https://medium.com/siggu/silent-spaces-160d3a44fa3d)
