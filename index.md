@@ -23,6 +23,9 @@ title: "Siggu."
 
 ## Preethi's Week Notes
 
+- 2020 January 3 - [Month 12: Of Rotis and Cobras](https://medium.com/siggu/month-12-of-rotis-and-cobras-88d2a84ac4c3)
+- 2019 December 10 - [Month 11: Of the Coromandel Coast and Kittens](https://medium.com/siggu/month-11-of-the-coromandel-coast-and-kittens-a0a17e6d5f6a)
+- 2019 November 2 - [Month 10: Of Travelling and Babies](https://medium.com/siggu/month-10-of-travelling-and-babies-430894de5e0f)
 - 2019 October 1 - [Month 9: Of Hurricanes and Cabins](https://medium.com/siggu/month-9-of-hurricanes-cabins-7ff26a3a3dc7)
 - 2019 September 26 - [Month 8: Cabin Lowdown](https://medium.com/siggu/cabining-month-3-8e5872267b92)
 - 2019 September 26 - [Month 7: Cabin Life](https://medium.com/siggu/cabin-life-month-2-e35478ccf17a)
