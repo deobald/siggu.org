@@ -2,20 +2,21 @@
 title: "Siggu."
 ---
 
-## Articles
+## Essays and Articles
 
-- 2019 November 20 - [RFC: Hacker Villages](https://medium.com/siggu/rfc-hacker-villages-45d49369bf8c)
-- 2019 October 28 - [Compassion for Donald](https://medium.com/siggu/compassion-for-donald-75a88f582a5d)
-- 2019 October 21 - [I started meditating... now what?](https://medium.com/siggu/i-started-meditating-now-what-dc9f05d44cf3)
-- 2019 March 01 - [Silent Spaces](https://medium.com/siggu/silent-spaces-160d3a44fa3d)
-- 2019 February 05 - [Universal Spaces](https://medium.com/siggu/universal-spaces-d0e0110a0ccc)
-- 2019 February 01 - [India has a Three-Body Problem](https://medium.com/siggu/india-has-a-three-body-problem-b61090fe4cc6)
-- 2019 January 16 - [How to disconnect](https://medium.com/siggu/how-to-disconnect-1040de82072a)
-- 2019 January 11 - [Does smoking marijuana harm your meditation practice?](https://medium.com/siggu/does-smoking-marijuana-harm-your-meditation-practice-a683ea752220)
-- 2019 January 01 - [EFF Software Ethics or Steve Yegge, you are half right (Part Two)](https://medium.com/siggu/eff-software-fc19e1abca46)
-- 2018 December 24 - [Steve Yegge, you are half right (Part One)](https://medium.com/siggu/steve-yegge-you-are-half-right-part-one-5560054e2922)
-- 2018 December 23 - [The Toxic Notification Bubble](https://medium.com/siggu/the-toxic-notification-bubble-2dbac032e34a)
-- 2018 December 21 - [What is siggu.org?](https://medium.com/siggu/what-is-siggu-org-a8e8823daee5)
+- 2019 November 28 - [Ethical Software For Everyone](https://www.deobald.ca/essays/2019-11-28-ethical-software-for-everyone/)
+- 2019 November 20 - [Hacker Villages](https://www.deobald.ca/essays/2019-11-20-hacker-villages/)
+- 2019 October 28 - [Compassion for Donald](https://www.deobald.ca/essays/2019-08-28-compassion-for-donald/)
+- 2019 October 21 - [I started meditating... now what?](https://www.deobald.ca/essays/2019-08-21-i-started-meditating-now-what/)
+- 2019 March 01 - [Silent Spaces](https://www.deobald.ca/essays/2019-03-01-silent-spaces/)
+- 2019 February 05 - [Universal Spaces](https://www.deobald.ca/essays/2019-02-05-universal-spaces/)
+- 2019 February 01 - [India has a Three-Body Problem](https://www.deobald.ca/essays/2019-02-01-india-has-a-three-body-problem/)
+- 2019 January 16 - [How to disconnect](https://www.deobald.ca/essays/2019-01-16-how-to-disconnect/)
+- 2019 January 11 - [Does smoking marijuana harm your meditation practice?](https://www.deobald.ca/essays/2019-01-11-does-smoking-marijuana-harm-your-meditation-practice/)
+- 2019 January 01 - [Steve Yegge, You Are Half Right (Part Two: Software Ethics)](https://www.deobald.ca/essays/2019-01-01-steve-yegge-you-are-half-right-part-two-software-ethics/)
+- 2018 December 24 - [Steve Yegge, You Are Half Right (Part One: An Ethical Void)](https://www.deobald.ca/essays/2018-12-25-steve-yegge-you-are-half-right-part-one-an-ethical-void/)
+- 2018 December 23 - [The Toxic Notification Bubble](https://www.deobald.ca/essays/2018-12-23-the-toxic-notification-bubble/)
+- 2018 December 21 - [What is siggu.org?](https://www.deobald.ca/essays/2018-12-21-what-is-siggu-org/)
 
 ## Papers
 
@@ -50,12 +51,11 @@ title: "Siggu."
 - Permanent Residence in Canada - Preethi.
 - Half Marathon Number Two.
 
+- [Suññagara.org](https://www.sunnagara.org) - Find a Silent Space to meditate, near you.
 - Vipassana for Hackers, [Paper Three](https://github.com/deobald/vipassana-for-hackers/blob/master/paper-three/paper-three.tex)
 - Vipassana for Hackers, [Paper Four](https://github.com/deobald/vipassana-for-hackers/blob/master/paper-four/paper-four.tex)
-- [Suññagara.org](https://www.sunnagara.org) - Find a Silent Space to meditate, near you.
 - Vipassana for Hackers, The Proposal
 - Vipassana for Hackers, The Earth Pagoda Manual
 - [Die Standing Up](https://github.com/deobald/die-standing-up) - A book about health.
 - Margaret Atwood's Masterclass - Steven.
-    - Reading: _On Writer's And Writing_
     - To read: _The Blind Assassin_
