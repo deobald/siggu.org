@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  20 JAN 2020 14:49
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  20 JAN 2020 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,7 +785,7 @@ LaTeX Info: Redefining \nameref on input line 20.
 \@outlinefile=\write3
 \openout3 = `kitchen-letter-hi.out'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -794,18 +794,18 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
  (./kitchen-letter-hi.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 24.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
 Package rerunfilecheck Info: File `kitchen-letter-hi.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 20212 strings out of 492970
- 388283 string characters out of 6133938
- 486553 words of memory out of 5000000
- 24122 multiletter control sequences out of 15000+600000
+ 20213 strings out of 492970
+ 388288 string characters out of 6133938
+ 490553 words of memory out of 5000000
+ 24123 multiletter control sequences out of 15000+600000
  530688 words of font info for 30 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,4n,117p,10470b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
