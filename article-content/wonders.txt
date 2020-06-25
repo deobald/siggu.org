@@ -1,0 +1,11 @@
+This idea is stolen from _Age of Empires_, an old PC strategy game. In _Age of
+Empires_, players would build up their societies and at some point attempt to create
+"wonders" like the pyramids of Egypt, massive churches, mosques, mausoleums, military
+watchtowers, and towers of the we-just-built-this-to-see-how-big-we-could-make-it
+sort.
+
+As far as _Age of Empires II_ is concerned, there was also one observatory for the
+purpose of astronomy... but largely the wonders were for religious or military
+purposes:
+
+https://ageofempires.fandom.com/wiki/Wonder_(Age_of_Empires_II)
